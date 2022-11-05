@@ -3,7 +3,7 @@ import keyboard #aperta a tecla do teclado
 import time
 from datetime import datetime
 from chatbot_coversa_options import enviar_msg
-contatos = ['+5527997477241']
+contatos = ['number']
 msg = 'Msg automatica S2'
 while len(contatos) >= 1:
     # enviar mensagem
